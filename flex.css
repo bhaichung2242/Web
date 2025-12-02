@@ -1,0 +1,31 @@
+header {
+  background-color: green;
+  height: 100px;
+}
+.ct {
+  display: flex;
+  flex-direction: row;
+}
+.start {
+  /* order: 2; */
+  background-color: black;
+  height: 300px;
+  width: 200px;
+}
+#leftbar {
+  /* order: 1; */
+  background-color: rebeccapurple;
+  height: 300px;
+  width: 200px;
+}
+.rightbar {
+  /* order: 1; */
+  background-color: red;
+  height: 300px;
+  width: 200px;
+}
+
+footer {
+  background-color: green;
+  height: 100px;
+}

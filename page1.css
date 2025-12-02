@@ -1,0 +1,32 @@
+.box {
+  margin: 5px, 5px;
+}
+header {
+  background-color: khaki;
+  height: 100px;
+}
+.ct {
+  display: flex;
+  flex-direction: row;
+}
+.start {
+  height: 300px;
+  width: 25%;
+  background-color: rgb(231, 235, 235);
+}
+#leftbar {
+  height: 300px;
+  width: 25%;
+  background-color: aliceblue;
+}
+.leftbar {
+  height: 300px;
+  width: 25%;
+  background-color: rgb(132, 150, 167);
+}
+
+.rightbar {
+  height: 300px;
+  width: 25%;
+  background-color: antiquewhite;
+}
