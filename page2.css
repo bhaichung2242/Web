@@ -4,29 +4,28 @@
 header {
   background-color: aliceblue;
   height: 100px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
 }
 
 .div {
-  text-align: center;
-  margin-left: 6%;
-  height: 70px;
-  width: 70px;
+  margin: 20px;
+  padding: 20px;
+
   background-color: cadetblue;
   float: left;
 }
 .div2 {
-  text-align: center;
-  margin-left: 40%;
-  height: 70px;
-  width: 70px;
+  margin: 20px;
+  padding: 20px;
   background-color: chocolate;
   float: left;
 }
 .div3 {
-  text-align: center;
-  margin-left: 35%;
-  height: 70px;
-  width: 70px;
+  margin: 20px;
+  padding: 20px;
   background-color: darkgoldenrod;
   float: left;
 }
