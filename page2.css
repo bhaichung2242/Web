@@ -1,0 +1,56 @@
+.box {
+  margin: 5px;
+}
+header {
+  background-color: aliceblue;
+  height: 100px;
+}
+
+.div {
+  text-align: center;
+  margin-left: 6%;
+  height: 70px;
+  width: 70px;
+  background-color: cadetblue;
+  float: left;
+}
+.div2 {
+  text-align: center;
+  margin-left: 40%;
+  height: 70px;
+  width: 70px;
+  background-color: chocolate;
+  float: left;
+}
+.div3 {
+  text-align: center;
+  margin-left: 35%;
+  height: 70px;
+  width: 70px;
+  background-color: darkgoldenrod;
+  float: left;
+}
+
+section div:first-child {
+  text-align: center;
+  background-color: gold;
+  height: 100px;
+}
+section div:nth-child(2) {
+  text-align: center;
+  background-color: lawngreen;
+  height: 100px;
+}
+footer {
+  text-align: center;
+  background-color: aqua;
+  height: 100px;
+}
+.clear {
+  clear: both;
+}
+@media screen and (max-width: 500px) {
+  body {
+    background: red;
+  }
+}

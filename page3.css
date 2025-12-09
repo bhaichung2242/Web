@@ -1,0 +1,64 @@
+.box {
+  margin: 5px;
+}
+header {
+  background-color: aquamarine;
+  height: 80px;
+}
+
+header .a {
+  height: 30%;
+  width: 5%;
+  padding: 7px;
+  margin-top: 29px;
+  margin-left: 260px;
+  margin-bottom: 50px;
+  text-align: center;
+  float: left;
+  background: sandybrown;
+}
+
+header .b {
+  height: 30%;
+  width: 5%;
+  padding: px;
+  margin-top: 29px;
+  margin-left: 260px;
+  text-align: center;
+  float: left;
+  background: antiquewhite;
+}
+
+header .c {
+  width: 5%;
+  padding: 7px;
+  margin-top: 29px;
+  margin-right: 260px;
+  text-align: center;
+  float: right;
+  background: lawngreen;
+}
+
+section .div {
+  padding: 3%;
+  float: left;
+}
+
+section .img {
+  height: 460px;
+  width: 44%;
+  padding: 3%;
+  float: left;
+}
+
+footer {
+  height: 10%;
+  width: 94%;
+  padding: 3%;
+  text-align: center;
+  background: skyblue;
+}
+
+.clear {
+  clear: both;
+}
