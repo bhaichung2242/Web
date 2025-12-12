@@ -1,0 +1,35 @@
+.box {
+  margin: 5px;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background-color: blue;
+}
+.nav {
+  padding: 20px;
+  text-align: center;
+  background-color: navy;
+}
+.ct {
+  display: flex;
+  flex-direction: row;
+  height: 300px;
+}
+.main {
+  width: 80%;
+  background-color: skyblue;
+}
+.aside {
+  width: 20%;
+  background-color: purple;
+}
+footer {
+  padding: 20px;
+  text-align: center;
+  background-color: blue;
+}
+.clear {
+  clear: both;
+}
