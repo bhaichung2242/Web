@@ -45,7 +45,7 @@ footer {
 .clear {
   clear: both;
 }
-@media screen and (max-width: 800px) {
+@media screen and (min-width: 800px) {
   body {
     background: red;
   }
