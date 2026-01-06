@@ -1,0 +1,120 @@
+/* .main {
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+  border-radius: 35px 40px 80px;
+} */
+
+/* .burger {
+  border-radius: 50%;
+  border: 12px solid green;
+  box-shadow: 2px 3px 12px saddlebrown;
+}
+.profile {
+  height: 200px;
+  width: 200px;
+  border: 5px solid black;
+  border-radius: 50%;
+} */
+
+/* body {
+  background-image: url(images.jpeg), url(photo-1472289065668-ce650ac443d2.jpeg);
+  background-repeat: no-repeat, no-repeat;
+  background-size: 40px, 600px;
+} */
+
+/* body {
+  background-image: radial-gradient(orange, green);
+  background-repeat: no-repeat;
+} */
+
+/* CSS3 2D Transforms(translate) */
+/* div {
+  width: 300px;
+  height: 100px;
+  background-color: yellow;
+  border: 1px solid black;
+  -ms-transform: translate(50px, 100px);
+  -webkit-transform: translate(50px, 100px);
+  transform: translate(50px, 100px);
+} */
+
+/* CSS3 2D Transforms(rotate anti-clockwise) */
+/* div {
+  width: 300px;
+  height: 100px;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+div#myDiv {
+  -ms-transform: rotate(-20deg);
+  -webkit-transform: rotate(-20deg);
+  transform: rotate(-20deg);
+} */
+
+/* CSS3 2D Transforms(scale decrease) */
+/* div {
+  width: 150px;
+  height: 200px;
+  background-color: yellow;
+  border: 1px solid black;
+  border: 1px solid black;
+  -ms-transform: scale(2, 3);
+  -webkit-transform: scale(2, 3);
+  transform: scale(2, 3);
+} */
+
+/* CSS3 2D Transforms(skew X) */
+/* div {
+  width: 300px;
+  height: 100px;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+div#myDiv {
+  -ms-transform: skewX(20deg);
+  -webkit-transform: skewX(20deg);
+  transform: skewX(20deg);
+} */
+
+/* CSS3 2D Transforms(skew Y) */
+/* div {
+  width: 300px;
+  height: 100px;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+div#myDiv {
+  -ms-transform: skewY(20deg);
+  -webkit-transform: skewY(20deg);
+  transform: skewY(20deg);
+} */
+
+/* CSS3 2D Transforms(skew) */
+/* div {
+  width: 300px;
+  height: 100px;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+div#myDiv {
+  -ms-transform: skew(20deg, 10deg);
+  -webkit-transform: skew(20deg, 10deg);
+  transform: skew(20deg, 10deg);
+} */
+
+/* CSS Tansitions */
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  -webkit-transition: width 2s;
+  transition: width 2s;
+}
+div:hover {
+  width: 300px;
+}
